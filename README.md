@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **Terence-Wong/Terence-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+If you're from MAC and looking for the Java Guide, I've made it public:
+https://docs.google.com/document/d/1sidUQQeuhF5LWuZsyeHKfa_cEKhld3F0irekdC_vpWs/edit?usp=sharing
