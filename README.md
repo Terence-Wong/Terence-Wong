@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-If you're from MAC and looking for the Java Guide, I've made it public:
+Unfinished Java Guide for new programmers I made in highschool:
 https://docs.google.com/document/d/1sidUQQeuhF5LWuZsyeHKfa_cEKhld3F0irekdC_vpWs/edit?usp=sharing
 
-It's far from complete but it should get you through the enough of the basics of Java
